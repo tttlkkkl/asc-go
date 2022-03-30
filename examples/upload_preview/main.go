@@ -29,8 +29,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/cidertool/asc-go/asc"
-	"github.com/cidertool/asc-go/examples/util"
+	"github.com/tttlkkkl/asc-go/asc"
+	"github.com/tttlkkkl/asc-go/examples/util"
 )
 
 var (

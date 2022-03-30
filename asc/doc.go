@@ -25,7 +25,7 @@ Usage
 
 Import the package as you normally would:
 
-	import "github.com/cidertool/asc-go/asc"
+	import "github.com/tttlkkkl/asc-go/asc"
 
 Construct a new App Store Connect client, then use the various services on the client to
 access different parts of the App Store Connect API. For example:
@@ -40,7 +40,7 @@ access different parts of the App Store Connect API. For example:
 The client is divided into logical chunks closely corresponding to the layout and structure
 of Apple's own documentation at https://developer.apple.com/documentation/appstoreconnectapi.
 
-For more sample code snippets, head over to the https://github.com/cidertool/asc-go/tree/main/examples directory.
+For more sample code snippets, head over to the https://github.com/tttlkkkl/asc-go/tree/main/examples directory.
 
 Authentication
 
@@ -54,7 +54,7 @@ to look a little more like this:
 		"os"
 		"time"
 
-		"github.com/cidertool/asc-go/asc"
+		"github.com/tttlkkkl/asc-go/asc"
 	)
 
 	func main() {
